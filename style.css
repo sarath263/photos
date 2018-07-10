@@ -182,6 +182,7 @@ a:hover, a:active {
         padding: 15px 30px;
         background: #fff;
         box-shadow: 0 12px 24px rgba(0,0,0,.09);
+        opacity: 0.6;
     }
 
     .site-header,
@@ -266,6 +267,7 @@ a:hover, a:active {
 
     .site-header {
         background: #fff;
+        opacity: 0.6;
     }
 
     .site-header.no-shadow {
